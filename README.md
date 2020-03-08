@@ -1,4 +1,6 @@
 # Debian 10 (Buster) Molecule Test Image
+[![Docker Repository on Quay](https://quay.io/repository/synominit/docker-molecule-debian10/status "Docker Repository on Quay")](https://quay.io/repository/synominit/docker-molecule-debian10)
+
 
 
 Debian 10 (Buster) Docker container for Ansible playbook and role testing.
