@@ -1,5 +1,5 @@
 # Debian 10 (Buster) Molecule Test Image
-[![Docker Repository on Quay](https://quay.io/repository/synominit/docker-molecule-debian10/status "Docker Repository on Quay")](https://quay.io/repository/synominit/docker-molecule-debian10)
+[![Docker Repository on Quay](https://quay.io/repository/synominit/docker-molecule-debian10/status "Docker Repository on Quay")](https://quay.io/repository/synominit/docker-molecule-debian10)[![Build Status](https://travis-ci.com/synominit/docker-molecule-debian10.svg?branch=master)](https://travis-ci.com/synominit/docker-molecule-debian10)
 
 
 
